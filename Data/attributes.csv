@@ -1,0 +1,95 @@
+Words,Attribute
+engine,performance
+year,model
+price,price
+power,performance
+drive,price
+value,price
+mileage,performance
+quality,quality
+reliability,reliability
+cost ,price
+warranty,reliability
+mpg,efficiency
+speed,speed
+hp ,performance
+mph,speed
+performance,performance
+size,size
+auto ,transmission
+design ,design
+transmission,transmission
+brand,make
+seat,interior
+wheel ,wheel
+room,size
+automatic,transmission
+manual,transmission
+cylinder,size
+acceleration ,performance
+rpm,speed
+safety,safety
+torque,performance
+door,interior
+maintenance ,quality
+volume,interior
+area,interior
+manufacturer,make
+acceleration ,performance
+style,make
+space,size
+motor,performance
+stability,design
+range,performance
+rating ,rating
+diesel ,design
+oil ,performance
+body,design
+interior ,interior
+weight,make
+noise,performance
+leather,interior
+type ,type
+cyl,size
+cylinder,size
+sport,type
+comfort ,luxury
+rate,price
+make,make
+capacity ,interior
+gear,transmission
+luxury,luxury
+pricing,price
+age,age
+wood,interior
+mile,speed
+average,performance
+liter,performance
+tank,performance
+gasoline,performance
+color,design
+rpms,speed
+gallon,performance
+shape ,design
+efficiency,efficiency
+legroom,design
+horsepower,performance
+durability,reliability
+headroom,design
+audio,interior
+aluminium,make
+metal,make
+lbs,make
+steel,make
+apperance,apperance 
+efficient ,efficiency
+longetivity,reliability
+material,make
+expense,price
+moonroof,make
+bigger,size
+biggest,size
+smaller,size
+smallest,size
+money,price 
+economy,performance
