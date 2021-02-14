@@ -11,5 +11,7 @@ https://forums.edmunds.com/discussion/7526/general/x/midsize-sedans-2-0
 2. The data is then cleaned and tokenized. Stop words and Punctuations are also removed. 
 3. Top 10 most-discussed brands are determined through decreasing order of frequency
 4. Lift Analysis, MDS (Multidimensional scaling) plot and Association Analysis are done to determine which brands are perceived to be closer to each other
-5. An analysis is done to determine which attributes are associated with top 5 brands. Recommendations are then given to (i) Product Managers and (ii) Marketing/Advertising Managers of each of these brands. The recommendations are also compared to news and blogs from 2007-2008 period to determine whether the analysis conforms to the actual recommendations implemented by these brands, during the same period.
+5. An analysis is done to determine which attributes are associated with top 5 brands. Recommendations are then given to: 
+(i) Product Managers and (ii) Marketing/Advertising Managers of each of these brands. 
+The recommendations are also compared to news and blogs from 2007-2008 period to determine whether the analysis conforms to the actual recommendations implemented by these brands, during the same period.
 6. An analysis is conducted to determine the most aspirational brand, perceived by the users of the discussion forum
